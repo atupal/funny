@@ -59,5 +59,5 @@
 
 
 
-原文链接： businessinsider   翻译： 伯乐在线 - JingerJoe
+原文链接： http://www.businessinsider.com/astounding-facts-about-googles-most-badass-engineer-jeff-dean-2012-1?op=1   翻译： 伯乐在线 - JingerJoe
 译文链接： http://blog.jobbole.com/51607/
