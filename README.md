@@ -1,0 +1,4 @@
+funny
+=====
+
+just for fun
